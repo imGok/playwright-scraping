@@ -1,0 +1,14 @@
+{
+  "name": "playwright-webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imGok",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.22.2"
+  }
+}
